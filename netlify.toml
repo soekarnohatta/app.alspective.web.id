@@ -9,12 +9,8 @@ HUGO_ENABLEGITINFO = "true"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
-
 	[plugins.inputs]
 	debug = true
 	
-[[plugins]]
-package = "./plugins/image-optim"
-
 [[plugins]]
 package = "@netlify/plugin-local-install-core"
