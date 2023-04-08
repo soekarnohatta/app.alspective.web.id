@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Instagram",
+        "link": "https://instagram.com/alspective",
+        "image": "social/instagram.svg"
+    },
+    {
+        "name": "Youtube",
+        "link": "https://www.youtube.com/@Alspective",
+        "image": "social/youtube.svg"
+    }
+]

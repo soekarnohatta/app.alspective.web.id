@@ -1,0 +1,31 @@
+baseURL = 'https://app.alspective.netlify.app'
+languageCode = 'en-us'
+title = 'Alspective'
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[[menu.main]]
+name = "Beranda"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "Tentang"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Visi Misi"
+url = "#service"
+weight = 3
+[[menu.main]]
+name = "Galeri"
+url = "#portfolio"
+weight = 4
+[[menu.main]]
+name = "Informasi"
+url = "#blog"
+weight = 5
+[[menu.main]]
+name = ""
+url = "#"
+weight = 6
