@@ -1,13 +1,13 @@
 ---
 title: 'Laman Pendaftaran SMA'
 date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-6.png'
 draft: false
 featured: true
 weight: 2
 heroHeading: 'Laman Pendaftaran SMA'
 heroSubHeading: 'Step Right Up To Be A Star'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'services/service1.jpg'
+icon: 'services/service-icon-5.png'
 ---
 Berikut adalah laman pendaftaran peserta untuk tingkat SMA/sederajat. Gunakan laman ini jika Anda adalah pendaftar tingkat SMA/sederajat.
 

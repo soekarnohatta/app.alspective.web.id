@@ -1,12 +1,13 @@
 ---
 title: 'Syarat Pendaftaran'
 date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+
 featured: true
 draft: false
 heroHeading: 'Syarat Pendaftaran'
 heroSubHeading: 'Step Right Up To Be A Star'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'services/service1.jpg'
+icon: 'services/service-icon-5.png'
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

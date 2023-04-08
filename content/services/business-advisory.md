@@ -1,12 +1,13 @@
 ---
 title: 'Informasi Biaya Pendaftaran'
 date: 2018-11-28T15:14:39+10:00
-icon: 'services/service-icon-2.png'
+
 featured: true
 draft: false
 heroHeading: 'Informasi Biaya Pendaftaran'
 heroSubHeading: 'Step Right Up To Be A Star'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'services/service1.jpg'
+icon: 'services/service-icon-5.png'
 ---
 
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares

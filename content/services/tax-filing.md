@@ -1,13 +1,14 @@
 ---
 title: 'Bantuan dan Narahubung'
 date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-6.png'
+
 draft: false
 featured: true
 weight: 2
 heroHeading: 'Bantuan dan Narahubung'
 heroSubHeading: 'Step Right Up To Be A Star'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'services/service1.jpg'
+icon: 'services/service-icon-5.png'
 ---
 
 Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,

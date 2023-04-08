@@ -1,13 +1,14 @@
 ---
 title: 'Informasi Cara Pendaftaran'
 date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-1.png'
+
 draft: false
 featured: true
 weight: 1
 heroHeading: 'Cara Pendaftaran'
 heroSubHeading: 'Step Right Up To Be A Star'
 heroBackground: 'services/service1.jpg'
+icon: 'services/service-icon-5.png'
 ---
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
